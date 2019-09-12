@@ -1,2 +1,2 @@
 # hello-world
-getting started with git guide
+I'm using the git guide.
